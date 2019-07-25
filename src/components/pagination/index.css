@@ -1,0 +1,15 @@
+button {
+  border: none;
+  padding: 8px 17px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+button:focus {
+  box-shadow: none !important;
+}
+
+.margin-center {
+  margin: auto;
+}
