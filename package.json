@@ -15,7 +15,7 @@
   "dependencies": {
     "apollo-boost": "^0.4.3",
     "file-saver": "^2.0.2",
-    "gatsby": "^2.13.39",
+    "gatsby": "^4.25.7",
     "graphql": "^14.4.2",
     "react": "^16.8.6",
     "react-apollo": "^2.5.8",
